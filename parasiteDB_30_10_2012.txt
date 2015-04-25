@@ -1,0 +1,258 @@
+Acanthogobius flavimanus X-cell parasite[porgn:__txid552469]	Acanthogobius flavimanus (yellowfin goby)	Unclassified Eukaryota	
+Achlya racemosa[porgn:__txid112087]	Phytopathogen (Plant host)	Stramenopile	Oomycete
+Adelina bambarooniae[porgn:__txid203142]	Dermolepida albohirtum (greyback canegrub) (Larvae)	Alveolata	Apicomplexa
+Albugo candida[porgn:__txid65357]	Capsella bursa-pastoris (Plant)	Stramenopile	Oomycete
+Amoebophrya sp. ex Karlodinium veneficum[porgn:__txid581008]	Karlodinium veneficum (Dinoflagellate)	Alveolata	Dinoflagellate
+Amoebophrya sp. ex Akashiwo sanguineaum[porgn:__txid860588]			
+Anophryoides haemophila[porgn:__txid46462]	Homarus americanus (Atlantic lobster)	Alveolata	Ciliophora
+Aphanomyces helicoides[porgn:__txid170619]	Crayfish	Stramenopile	Oomycete
+Aphanomyces laevis[porgn:__txid112092]	Fish and crayfish?! (Ictalurus punctatus eggs)	Stramenopile	Oomycete
+Apicomplexa sp. Petaurus australis/4069393/Queensland/2007[porgn:__txid590667]	Petaurus australis (yellow-bellied glider)	Alveolata	Apicomplexa
+Apicomplexa sp. Phaedon brassicae/Daegwallyeong[porgn:__txid587871]	Phaedon brassicae (daikon leaf beetle)	Alveolata	Apicomplexa
+Ascogregarina barretti[porgn:__txid247477])	Ochlerotatus triseriatus (synonym: Aedes triseriatus) (fly)	Alveolata	Apicomplexa
+Ascogregarina taiwanensis[porgn:__txid158379]	Aedes japonicus (mosquito)	Alveolata	Apicomplexa
+Aurantiochytrium limacinum[porgn:__txid87102] SYNONYM: Schizochytrium limacinum	Mercenaria mercenaria (hard clam)	Stramenopile	Labyrinthulida
+Babesia bovis[porgn:__txid5865]	Bovinae (cattle)	Alveolata	Apicomplexa
+Babesia canis[porgn:__txid5867]	Canis familiaris (Canis/dog)	Alveolata	Apicomplexa
+Babesia divergens[porgn:__txid32595]	Rabbit, Ixodes (tick)	Alveolata	Apicomplexa
+Babesia equi[porgn:__txid5872]	Equi (horse)	Alveolata	Apicomplexa
+Babesia gibsoni[porgn:__txid33632]	Canis familiaris (Canis/dog) (tickborne)	Alveolata	Apicomplexa
+Babesia microti[porgn:__txid5868]	Field rodents, Ixodes (tick)	Alveolata	Apicomplexa
+Babesia orientalis[porgn:__txid273649]	Bubalus bubalis (water buffalo)	Alveolata	Apicomplexa
+Babesia rodhaini[porgn:__txid5870]	Human (tickborne), rodents, mice	Alveolata	Apicomplexa
+Besnoitia darlingi[porgn:__txid190281]	Didelphis virginiana (The Virginia opossum)	Alveolata	Apicomplexa
+Besnoitia oryctofelisi[porgn:__txid218676]	Oryctolagus cuniculus (European/common rabbit)	Alveolata	Apicomplexa
+Blastocrithidia gerricola[porgn:__txid96039]	Gerris lacustris (common pond skater/common water strider)	Euglenozoa	Kinetoplastida
+Blastocrithidia triatoma[porgn:__txid96040]	Triatoma infestans (a blood-sucking bug)	Euglenozoa	Kinetoplastida
+Blastocystis hominis[porgn:__txid12968])	Human, rat, pig, chicken, etc?	Stramenopile	Blastocystis
+Blastodinium galatheanum[porgn:__txid647144]	Acartia negligens (marine calanoid copepod)	Alveolata	Dinophyceae; Blastodiniales
+Blastodinium pruvoti[porgn:__txid647143]	Clausocalanus sp. (copepod)	Alveolata	Dinophyceae; Blastodiniales
+Bodo caudatus[porgn:__txid351713] SYNONYM: Parabodo caudatus	fish (Bodo is in the order Kinetoplastida)	Euglenozoa	Kinetoplastida
+Bodo edax[porgn:__txid155204]	fish (Bodo is in the order Kinetoplastida)	Euglenozoa	Kinetoplastida
+Bodo saltans[porgn:__txid75058]	fish (Bodo is in the order Kinetoplastida)	Euglenozoa	Kinetoplastida
+Bonamia exitiosa[porgn:__txid362532]	Ostrea edulis (European flat oyster)	Rhizaria	Haplosporidia
+Bonamia perspora[porgn:__txid368604]	Ostreola equestris (the crested oyster)	Rhizaria	Haplosporidia
+Calyptospora funduli[porgn:__txid700704]	Fundulus grandis (Gulf killifish)	Alveolata	Apicomplexa
+Cardiosporidium cionae[porgn:__txid476202]	The ascidian Ciona intestinalis (vase tunicate (a urochordata/sea squirt))	Alveolata	Apicomplexa
+Caryospora bigenetica[porgn:__txid86281]	Reptiles (snakes), birds (and occationally small rodents)	Alveolata	Apicomplexa
+Caullerya mesnili[porgn:__txid762512]	Daphnia longispina complex	Ichthyosporea	unclassified Ichthyophonida
+Colpodellidae sp.[porgn:__txid177937]	Human (woman with relapsing Babesia-like illness)	Alveolata	Apicomplexa
+Crithidia bombi[porgn:__txid288676]	Bombus terrestris (bumblebee)	Euglenozoa	Kinetoplastida
+Crithidia fasciculata[porgn:__txid5656]	Mosquito 	Euglenozoa	Kinetoplastida
+Crithidia luciliae[porgn:__txid46909]	Insect?	Euglenozoa	Kinetoplastida
+Cryptobia salmositica[porgn:__txid86678]	salmonid fish (e.g. Rainbow trout)	Euglenozoa	Kinetoplastida
+Cryptocaryon irritans[porgn:__txid153251]	Pagrus major (Red sea bream)	Alveolata	Ciliophora
+Cryptosporidium canis[porgn:__txid195482]	Canis familiaris (Canis/dog)	Alveolata	Apicomplexa
+Cryptosporidium felis[porgn:__txid83540]	Felis (cat), Homo sapiens	Alveolata	Apicomplexa
+Cryptosporidium hominis[porgn:__txid237895]	Homo sapiens	Alveolata	Apicomplexa
+Cryptosporidium parvum[porgn:__txid5807]	Homo sapiens	Alveolata	Apicomplexa
+Cryptosporidium xiaoi[porgn:__txid659607]	Ovis aries (sheep), goat	Alveolata	Apicomplexa
+Cystoisospora belli[porgn:__txid482538]	Homo sapiens (Many species of Isospora/Cystoisospora  infect a variety of animals such as dogs, cats, pigs and non-human primates)	Alveolata	Apicomplexa
+Dictyostelium discoideum[porgn:__txid44689]	soil-living amoeba	Amoebozoa	Mycetozoa
+Dientamoeba fragilis[porgn:__txid43352]	Pig, human, gorilla	Parabasalia	Tritrichomonadida
+Dimastigella trypaniformis[porgn:__txid35226]	Free-living, but one strain isolated from termite gut	Euglenozoa	Kinetoplastida
+Eimeria acervulina[porgn:__txid5801]	Poultry, chicken	Alveolata	Apicomplexa
+Eimeria anguillae[porgn:__txid947528]	Anguilla anguilla (European eel)	Alveolata	Apicomplexa
+Eimeria bovis[porgn:__txid5803]	Bovine (Bos taurus)	Alveolata	Apicomplexa
+Eimeria brunetti[porgn:__txid51314]	Gallus gallus (domestic fowl, chicken)	Alveolata	Apicomplexa
+Eimeria cylindrospora[porgn:__txid947545]	Alburnus alburnus (fish)	Alveolata	Apicomplexa
+Eimeria daviesae[porgn:__txid947529]	Gobius fluviatilis (fish)	Alveolata	Apicomplexa
+Eimeria leucisci[porgn:__txid947549]	Blicca bjoerkna (fw fish)	Alveolata	Apicomplexa
+Eimeria macropodis[porgn:__txid1170228]	Macropus eugenii (wallaby)	Alveolata	Apicomplexa
+Eimeria maxima[porgn:__txid5804]	Gallus gallus (domestic fowl, chicken)	Alveolata	Apicomplexa
+Eimeria mitis[porgn:__txid44415]	Gallus gallus (domestic fowl, chicken)	Alveolata	Apicomplexa
+Eimeria necatrix[porgn:__txid51315]	Gallus gallus (domestic fowl, chicken)	Alveolata	Apicomplexa
+Eimeria nemethi[porgn:__txid947530]	Alburnus alburnus (fish)	Alveolata	Apicomplexa
+Eimeria percae[porgn:__txid947547]	Perca fluviatilis (European perch/abbor)	Alveolata	Apicomplexa
+Eimeria praecox[porgn:__txid51316]	Gallus gallus (domestic fowl, chicken)	Alveolata	Apicomplexa
+Eimeria pragensis[porgn:__txid326033]	? Mus musculus (mice)	Alveolata	Apicomplexa
+Eimeria rutili[porgn:__txid947531]	Rutilus rutilus (fish)	Alveolata	Apicomplexa
+Eimeria siliculiformis[porgn:__txid947550]	Abramis brama (fish)	Alveolata	Apicomplexa
+Eimeria sinensis[porgn:__txid947551]	Aristichthys nobilis (fish)	Alveolata	Apicomplexa
+Eimeria subepithelialis[porgn:__txid947552]	Cyprinus carpio (fish)	Alveolata	Apicomplexa
+Eimeria tenella[porgn:__txid5802]	Gallus gallus (domestic fowl, chicken)	Alveolata	Apicomplexa
+Eimeria variabilis[porgn:__txid947532]	Taurulus bubalis (fish)	Alveolata	Apicomplexa
+Eimeria vermiformis[porgn:__txid326035]	Mus musculus (mice)	Alveolata	Apicomplexa
+Entamoeba coli[porgn:__txid110766]	Macaca fascicularis (macaque), Homo sapiens	Amoebozoa	Archamoebae
+Entamoeba dispar[porgn:__txid46681]	rhesus monkey, homo sapiens	Amoebozoa	Archamoebae
+Entamoeba histolytica[porgn:__txid5759]	Macaca fascicularis (macaque), Homo sapiens	Amoebozoa	Archamoebae
+Entamoeba invadens[porgn:__txid33085]	Arakan turtles 	Amoebozoa	Archamoebae
+Entamoeba muris[porgn:__txid545931]	Meriones unguiculatus (the Mongolian jird/Mongolian gerbil [rodent])	Amoebozoa	Archamoebae
+Euduboscquella crenulata[porgn:__txid1132513]	tintinnids (ciliates)	Alveolata	Dinophyceae; Syndiniales
+Eurychasma dicksonii[porgn:__txid159317]	Pylaiella littoralis (macroalgae)	Stramenopile	Oomycete
+Gadus morhua X-cell parasite[porgn:__txid934029]	Gadus morhua (the Atlantic cod)	Eukaryota	X-cell parasite
+Giardia intestinalis[porgn:__txid5741]	Homo sapiens (and other mammals like cat, lamb, calf, dogs)	Fornicata	Diplomonadida
+Goussia balatonica[porgn:__txid947538]	Blicca bjoerkna (fw fish)	Alveolata	Apicomplexa
+Goussia bohemica[porgn:__txid947540]	Gobio gobio (fish)	Alveolata	Apicomplexa
+Goussia carpelli[porgn:__txid947543]	Cyprinus carpio (fish)	Alveolata	Apicomplexa
+Goussia chalupskyi[porgn:__txid947544]	Leuciscus cephalus (fish)	Alveolata	Apicomplexa
+Goussia desseri[porgn:__txid979873])	Sander lucioperca (fish)	Alveolata	Apicomplexa
+Goussia janae[porgn:__txid169156]	Leuciscus cephalus (fish)	Alveolata	Apicomplexa
+Goussia kessleri[porgn:__txid947554]	Gobius fluviatilis (fish)	Alveolata	Apicomplexa
+Goussia koertingi[porgn:__txid947566]	Barbus barbus (fish)	Alveolata	Apicomplexa
+Goussia pannonica[porgn:__txid947569]	Abramis sapa (fish)	Alveolata	Apicomplexa
+Goussia szekelyi[porgn:__txid947553]	Gobius melanostomus (fish)	Alveolata	Apicomplexa
+Goussia vargai[porgn:__txid947556]	Acipenser ruthenus (fish)	Alveolata	Apicomplexa
+Halocynthia intrahemocytic apicomplexan[porgn:__txid437443]	Halocynthia roretzi (tunicate)	Alveolata	Apicomplexa
+Hammondia hammondi[porgn:__txid99158]	Canis familiaris (Canis/dog faeces)	Alveolata	Apicomplexa
+Haplosporidia sp. ex Penaeus vannamei[porgn:__txid391639]	Penaeus vannamei (shrimp)	Rhizaria	Haplosporidia
+Haplosporidian parasite of Cyrenoida floridana[porgn:__txid262235]	Cyrenoida floridana (marsh clam)	Rhizaria	Haplosporidia
+haplosporidian parasite of Haliotis iris[porgn:__txid202863]	Haliotis iris (abalone; marine gastropod mollusk)	Rhizaria	Haplosporidia
+Haplosporidian parasite of Pandalus platyceros[porgn:__txid262243]	Pandalus platyceros (spot prawn)	Rhizaria	Haplosporidia
+Haplosporidian parasite of Syllis nipponica[porgn:__txid378219]	Syllis nipponica (polychaete)	Rhizaria	Haplosporidia
+Haplosporidium costale[porgn:__txid38246]	Crassostrea virginica (oyster)	Rhizaria	Haplosporidia
+Haplosporidium edule[porgn:__txid380133]	Penaeus vannamei (shrimp)	Rhizaria	Haplosporidia
+Haplosporidium montforti[porgn:__txid349906]	Haliotis tuberculata (abalone; marine gastropod mollusk)	Rhizaria	Haplosporidia
+Haplosporidium raabei[porgn:__txid1046031]	Dreissena polymorpha (zebra mussel)	Rhizaria	Haplosporidia
+Haplosporidium tuxtlensis[porgn:__txid1124166]	Siphonaria pectinata (marine gastropod)	Rhizaria	Haplosporidia
+Haplozoon praxillellae[porgn:__txid544511])	Praxillella pacifica (polychaete)	Alveolata	Dinophyceae; Blastodiniales
+Hematodinium perezi[porgn:__txid412152]	Liocarcinus depurator (harbour crab)	Alveolata	Dinophyceae; Syndiniales
+Hematodinium sp. ex Cancer pagurus[porgn:__txid405673]	Cancer pagurus (the edible crab/ brown crab)	Alveolata	Dinophyceae; Syndiniales
+Hematodinium sp. ex Carcinus maenas Cm753[porgn:__txid470169]	Carcinus maenas (common littoral crab)	Alveolata	Dinophyceae; Syndiniales
+Hematodinium sp. ex Munida rugosa[porgn:__txid467796]	Munida rugosa (lobster)	Alveolata	Dinophyceae; Syndiniales
+Hematodinium sp. ex Nephrops norvegicus[porgn:__txid333350]	Nephrops norvegicus (Norway lobster)	Alveolata	Dinophyceae; Syndiniales
+Hematodinium sp. ex Pagurus bernhardus[porgn:__txid405674]	Pagurus bernhardus (common marine hermit crab)	Alveolata	Dinophyceae; Syndiniales
+Hepatozoon tuatarae[porgn:__txid717479]	Sphenodon punctatus (the New Zealand tuatara) and Amblyomma sphenodonti (a tick)	Alveolata	Apicomplexa
+Herpetomonas ztiplika[porgn:__txid245069]	Culicoides cubitalis (Biting midge), bird (Falconiformes)	Euglenozoa	Kinetoplastida
+Hippoglossoides dubius X-cell parasite[porgn:__txid235078])	Hippoglossoides dubius (flat fish)	Eukaryota	X-cell parasite
+Histomonas meleagridis[porgn:__txid135588]	Infect a wide range of birds	Parabasalia	Tritrichomonadida
+Hyaloperonospora parasitica[porgn:__txid123356]	Plants (Each species of Hyaloperonospora is highly specialized and parasitises only few distinct host species or even only a single one)	Stramenopile	Oomycete
+Ichthyobodo necator[porgn:__txid155203]	Salmo trutta (the brown trout)	Euglenozoa	Kinetoplastida
+Ichthyodinium chabelardi[porgn:__txid393032]	Boops boops (fish)	Alveolata	Unclassified Alveolata; Ichthyodinium
+Ichthyophonus hoferi[porgn:__txid39843]	Oncorhynchus mykiss (rainbow trout)	Ichthyosporea	Ichthyophonida; Ichthyophonus
+Ichthyophthirius multifiliis[porgn:__txid5932]	fish	Alveolata	Ciliophora
+Isospora hypoleucae[porgn:__txid632697]	Ficedula hypoleuca (bird)	Alveolata	Apicomplexa
+Labyrinthulid quahog parasite QPX[porgn:__txid96639]	Mercenaria mercenaria (hard clam)	Stramenopile	Labyrinthulida
+Leishmania amazonensis[porgn:__txid5659]	Mus musculus (mice), Homo sapiens	Euglenozoa	Kinetoplastida
+Leishmania donovani[porgn:__txid5661]	Intermediate host: sandflies (Phlebotomus [Old World], and Lutzomyia [New World]). Primary host: vertebrates (hyraxes, canids, rodents, and humans)	Euglenozoa	Kinetoplastida
+Leishmania infantum[porgn:__txid5671]	Intermediate host: sandflies (Phlebotomus [Old World], and Lutzomyia [New World]). Primary host: vertebrates (hyraxes, canids, rodents, and humans)	Euglenozoa	Kinetoplastida
+Leishmania major[porgn:__txid5664]	Homo sapiens (and other mammals)	Euglenozoa	Kinetoplastida
+Leishmania mexicana[porgn:__txid5665]	Homo sapiens (and other mammals)	Euglenozoa	Kinetoplastida
+Leishmania tarentolae[porgn:__txid5689]	Gecko, other lizards	Euglenozoa	Kinetoplastida
+Leishmania tropica[porgn:__txid5666])	Homo sapiens (and other mammals)?	Euglenozoa	Kinetoplastida
+Leptolegnia caudata[porgn:__txid92976]	mosquito larvae, amphibian eggs	Stramenopile	Oomycete
+Limanda limanda X-cell parasite[porgn:__txid576891]	Limanda limanda (flat fish)	Eukaryota	X-cell parasite
+Marteilia refringens[porgn:__txid107386]	Xenostrobus securis (mussel)	Rhizaria	Cercozoa
+Marteilioides chungmuensis[porgn:__txid204400]	Ruditapes philippinarum (mussel)	Rhizaria	Cercozoa
+Mikrocytos mackini[porgn:__txid195010]	Crassostrea gigas (The Pacific oyster)	Eukaryota	Mikrocytos
+Minchinia mercenariae[porgn:__txid646744]	Mercenaria mercenaria (hard clam)	Rhizaria	Haplosporidia
+Neoparamoeba pemaquidensis[porgn:__txid180228]	implicated as the causative agent for several diseases in marine organisms, most notably amoebic gill disease (AGD) in Atlantic salmon	Amoebozoa	Flabellinea
+Neospora caninum[porgn:__txid29176]	Canis familiaris (Canis/dog), dog/dingo hybrid; dog from an Aboriginal community, Ceratotherium simum simum (Southern White Rhinoceros), Canis lupus dingo	Alveolata	Apicomplexa
+Ophryoglena catenula[porgn:__txid37092]	parasitising insect hemolymph??	Alveolata	Ciliophora
+Paramecium tetraurelia strain d4-2[porgn:__txid412030]	free-living related to apicomplexans 	Alveolata	Ciliophora
+Parvilucifera infectans[porgn:__txid103983]	Protoperidinium sp. (dinoflagellate)	Alveolata	Perkinsea
+Perkinsidae sp. chabelardi[porgn:__txid366460]	sardine eggs (parasite?)	Alveolata	Perkinsea
+Perkinsus marinus[porgn:__txid31276]	Crassostrea virginica (the eastern/Atlantic oyster)	Alveolata	Perkinsea
+Perkinsus olseni[porgn:__txid32597] SYNONYM: Perkinsus atlanticus	Haliotis laevigata (the smooth Australian abalone, marine gastropod mollusk)	Alveolata	Perkinsea
+Perkinsus qugwadi[porgn:__txid95749]	Patinopecten yessoensis (cultured Japanese Scallops)	Alveolata	Perkinsea
+Peronospora manshurica[porgn:__txid86334]	Glycine soja (plant, the soybean)	Stramenopile	Oomycete
+Peronospora tabacina[porgn:__txid230439]	Nicotiana tabacum (cultivated tobacco plant)	Stramenopile	Oomycete
+Phytophthora alni subsp. alni[porgn:__txid299392]	Alnus glutinosa (plant/European alder)	Stramenopile	Oomycete
+Phytophthora cactorum[porgn:__txid29920]	Pleione formosana (plant/the Peacock Orchid)	Stramenopile	Oomycete
+Phytophthora cambivora[porgn:__txid53983]	Prunus campanulata (plant/cherry)	Stramenopile	Oomycete
+Phytophthora capsici[porgn:__txid4784]	Piper longum (plant/long pepper)	Stramenopile	Oomycete
+Phytophthora cinnamomi[porgn:__txid4785]	plant	Stramenopile	Oomycete
+Phytophthora citricola[porgn:__txid53984]	plant	Stramenopile	Oomycete
+Phytophthora citrophthora[porgn:__txid4793]	plant	Stramenopile	Oomycete
+Phytophthora cryptogea[porgn:__txid4786]	plant	Stramenopile	Oomycete
+Phytophthora drechsleri[porgn:__txid4794]	plant	Stramenopile	Oomycete
+Phytophthora erythroseptica[porgn:__txid111171]	plant	Stramenopile	Oomycete
+Phytophthora europaea[porgn:__txid180900]	plant	Stramenopile	Oomycete
+Phytophthora fragariae[porgn:__txid53985]	plant	Stramenopile	Oomycete
+Phytophthora gonapodyides[porgn:__txid78237]	plant	Stramenopile	Oomycete
+Phytophthora humicola[porgn:__txid129352]	plant	Stramenopile	Oomycete
+Phytophthora ilicis[porgn:__txid89335]	plant	Stramenopile	Oomycete
+Phytophthora infestans[porgn:__txid4787]	plant	Stramenopile	Oomycete
+Phytophthora insolita[porgn:__txid127442]	plant	Stramenopile	Oomycete
+Phytophthora inundata[porgn:__txid244122]	plant	Stramenopile	Oomycete
+Phytophthora katsurae[porgn:__txid129354]	plant	Stramenopile	Oomycete
+Phytophthora kernoviae[porgn:__txid325452]	plant	Stramenopile	Oomycete
+Phytophthora lacustris[porgn:__txid1190534]	plant	Stramenopile	Oomycete
+Phytophthora lateralis[porgn:__txid129355]	plant	Stramenopile	Oomycete
+Phytophthora medicaginis[porgn:__txid54510]	plant	Stramenopile	Oomycete
+Phytophthora megasperma[porgn:__txid4788]	plant	Stramenopile	Oomycete
+Phytophthora nemorosa[porgn:__txid239968]	plant	Stramenopile	Oomycete
+Phytophthora nicotianae[porgn:__txid4790]	plant	Stramenopile	Oomycete
+Phytophthora palmivora[porgn:__txid4796]	plant	Stramenopile	Oomycete
+Phytophthora pistaciae[porgn:__txid174576]	plant	Stramenopile	Oomycete
+Phytophthora pseudosyringae[porgn:__txid221518]	plant	Stramenopile	Oomycete
+Phytophthora psychrophila[porgn:__txid180901]	plant	Stramenopile	Oomycete
+Phytophthora quercina[porgn:__txid78236]	plant	Stramenopile	Oomycete
+Phytophthora ramorum[porgn:__txid164328])	plant	Stramenopile	Oomycete
+Phytophthora rosacearum[porgn:__txid244167]	plant	Stramenopile	Oomycete
+Phytophthora rubi[porgn:__txid129364]	plant	Stramenopile	Oomycete
+Phytophthora sojae[porgn:__txid67593]	plant	Stramenopile	Oomycete
+Plasmodiophora brassicae[porgn:__txid37360]	plant (Sinapis alba)	Rhizaria	Cercozoa
+Plasmodium atheruri[porgn:__txid160486]	Rodent: Atherurus africanus (The African Brush-Tailed Porcupine)	Alveolata	Apicomplexa
+Plasmodium berghei[porgn:__txid5821]	Rodent: African thicket rat and mosquito	Alveolata	Apicomplexa
+Plasmodium chabaudi chabaudi[porgn:__txid31271]	Rodent and mosquito	Alveolata	Apicomplexa
+Plasmodium chabaudi[porgn:__txid5825]	Rodent and mosquito	Alveolata	Apicomplexa
+Plasmodium coatneyi[porgn:__txid208452]	Macaque (Primate) and mosquito	Alveolata	Apicomplexa
+Plasmodium cynomolgi[porgn:__txid5827])	Macaque (Primate) and mosquito	Alveolata	Apicomplexa
+Plasmodium elongatum[porgn:__txid77517]	Bird	Alveolata	Apicomplexa
+Plasmodium falciparum[porgn:__txid5833]	Homo sapiens	Alveolata	Apicomplexa
+Plasmodium fieldi[porgn:__txid77518]	Macaque (Primate) and mosquito	Alveolata	Apicomplexa
+Plasmodium fragile[porgn:__txid5857]		Alveolata	Apicomplexa
+Plasmodium gallinaceum[porgn:__txid5849]	Bird	Alveolata	Apicomplexa
+Plasmodium gonderi[porgn:__txid77519]	Mandrill (Primate)	Alveolata	Apicomplexa
+Plasmodium hylobati[porgn:__txid77520])	Macaque (Primate) and mosquito	Alveolata	Apicomplexa
+Plasmodium inui[porgn:__txid52288]	Macaque (Primate) and mosquito	Alveolata	Apicomplexa
+Plasmodium juxtanucleare[porgn:__txid111598]		Alveolata	Apicomplexa
+Plasmodium knowlesi[porgn:__txid5850]	Macaque (Primate) and mosquito	Alveolata	Apicomplexa
+Plasmodium lophurae[porgn:__txid5853]		Alveolata	Apicomplexa
+Plasmodium malariae[porgn:__txid5858]	Homo sapiens	Alveolata	Apicomplexa
+Plasmodium mexicanum[porgn:__txid27989]	Lizard	Alveolata	Apicomplexa
+Plasmodium ovale[porgn:__txid36330]	Homo sapiens	Alveolata	Apicomplexa
+Plasmodium reichenowi[porgn:__txid5854]	Chimapanzee	Alveolata	Apicomplexa
+Plasmodium simiovale[porgn:__txid35085]	Macaque (Primate) and mosquito	Alveolata	Apicomplexa
+Plasmodium simium[porgn:__txid5859]	Spider Monkey	Alveolata	Apicomplexa
+Plasmodium vinckei[porgn:__txid5860]	Rodent	Alveolata	Apicomplexa
+Plasmodium vivax[porgn:__txid5855]	Homo sapiens	Alveolata	Apicomplexa
+Plasmodium yoelii[porgn:__txid5861]	Rodent	Alveolata	Apicomplexa
+Polychromophilus melanipherus[porgn:__txid1147703]	Miniopterus schreibersii (bat)	Alveolata	Apicomplexa
+Polychromophilus murinus[porgn:__txid1147704]	Myotis daubentonii (bat)	Alveolata	Apicomplexa
+Polymyxa betae[porgn:__txid41456]	Arabidopsis thaliana (plant), Beta vulgaris (plant/beet)	Rhizaria	Cercozoa
+Pseudopleuronectes obscurus X-cell parasite[porgn:__txid934030]	Pseudopleuronectes obscurus (flat fish)	Eukaryota	X-cell parasite
+Psorospermium haeckeli[porgn:__txid42463]	Astacus astacus (crayfish)	Ichthyosporea	Ichthyophonida; Ichthyophonus
+Pustula tragopogonis[porgn:__txid572139]	Helianthus (plant/sunflower)	Stramenopile	Oomycete
+Pythium sp. SHT-2010a[porgn:__txid706571]	parasite of freshwater rotifers	Stramenopile	Oomycete
+Rhytidocystis cyamus[porgn:__txid715184])	Travisia pupa (Polychaeta; north-eastern Pacific 'stink worm')	Alveolata	Apicomplexa
+Rhytidocystis polygordiae[porgn:__txid358189]	Polygordius sp., Polychaeta	Alveolata	Apicomplexa
+Saprolegnia parasitica[porgn:__txid101203]	Pterophyllum scalare (angelfish)	Stramenopile	Oomycete
+Sarcocystis cf. falcatula[porgn:__txid174582]	Didelphis albiventris (South American opossums)	Alveolata	Apicomplexa
+Sarcocystis cruzi[porgn:__txid5817]	cattle	Alveolata	Apicomplexa
+Sarcocystis falcatula[porgn:__txid32593]	Haliaeetus leucocephalus (the bald eagle/bird), Enhydra lutris (sea otters)	Alveolata	Apicomplexa
+Sarcocystis lindsayi[porgn:__txid170346]	Didelphis albiventris (South American opossums)	Alveolata	Apicomplexa
+Sarcocystis mucosa[porgn:__txid98929]	macropodid marsupials	Alveolata	Apicomplexa
+Sarcocystis neurona[porgn:__txid42890]	Martes pennanti (the fisher [weasel family]), Enhydra lutris nereis (southern sea otter)	Alveolata	Apicomplexa
+Sarcocystis ramphastosi[porgn:__txid498917]	Ramphastos sulfuratus (the keel-billed toucan/bird)	Alveolata	Apicomplexa
+Sarcocystis sp. arctosi[porgn:__txid461494]	Ursus arctos (the brown bear)	Alveolata	Apicomplexa
+Sarcocystis zuoi[porgn:__txid1127630]	Rattus norwegicus (norway rat)	Alveolata	Apicomplexa
+Schizochytrium aggregatum[porgn:__txid4773]	Mercenaria mercenaria (hard clam)	Stramenopile	Labyrinthulida
+Sergeia podlipaevi[porgn:__txid424813]	Ceratopogonidae, Diptera (biting midges)	Euglenozoa	Kinetoplastida
+Spironucleus barkhanus[porgn:__txid103874]	Salmo trutta (the brown trout)	Diplomonadida	Hexamitidae
+Spironucleus salmonicida[porgn:__txid348837])	Salvelinus alpinus (arctic charr)	Diplomonadida	Hexamitidae
+Syndinium sp. ex Corycaeus sp.[porgn:__txid340371]	Corycaeus sp. (copepod)	Alveolata	Dinophyceae; Syndiniales
+Syndinium turbo[porgn:__txid340370]	Paracalanus parvus (copepod)	Alveolata	Dinophyceae; Syndiniales
+Theileria annulata[porgn:__txid5874]	Bos taurus (cattle) tickborne	Alveolata	Apicomplexa
+Theileria buffeli[porgn:__txid5876]	Bubalus babalis (water buffalo) tickborne	Alveolata	Apicomplexa
+Theileria lestoquardi[porgn:__txid77054]	Sheep, tickborne	Alveolata	Apicomplexa
+Theileria orientalis[porgn:__txid68886]	Bos taurus (cattle) tickborne	Alveolata	Apicomplexa
+Theileria parva[porgn:__txid5875]	Syncerus caffer (African buffalo), goat, tickborne?	Alveolata	Apicomplexa
+Theileria sergenti[porgn:__txid5877]	Equus caballus (horse), Bos taurus (cattle), tickborne?	Alveolata	Apicomplexa
+Theileria taurotragi[porgn:__txid27993])	Friesian cow (cattle) tickborne?	Alveolata	Apicomplexa
+Thraustochytrium aureum[porgn:__txid42467]	Mercenaria mercenaria (hard clam)	Stramenopile	Labyrinthulida
+Toxoplasma gondii[porgn:__txid5811]	Felis catus (cat), Vulpes vulpes (cat), The definitive host of T. gondii is the cat, but the parasite can be carried by many warm-blooded animals (birds[2]  or mammals, including humans)	Alveolata	Apicomplexa
+Trichomonas vaginalis[porgn:__txid5722]	Homo sapiens 	Parabasalia	Trichomonadida
+Trypanoplasma borreli[porgn:__txid5710]	Fish parasite, transmitted by Piscicola geometra (fish leech)	Euglenozoa	Kinetoplastida
+Trypanosoma brucei[porgn:__txid5691]	Homo sapiens	Euglenozoa	Kinetoplastida
+Trypanosoma carassii[porgn:__txid38249]	Freshwater fish, Perca fluviatilis	Euglenozoa	Kinetoplastida
+Trypanosoma congolense[porgn:__txid5692])	causes nagana (animal African trypanosomiasis) in ruminant livestock, horses and a wide range of wildlife	Euglenozoa	Kinetoplastida
+Trypanosoma cruzi[porgn:__txid5693])	Homo sapiens	Euglenozoa	Kinetoplastida
+Trypanosoma danilewskyi[porgn:__txid106941]	fish	Euglenozoa	Kinetoplastida
+Trypanosoma evansi evansi[porgn:__txid323822]	several vertabrat hosts	Euglenozoa	Kinetoplastida
+Trypanosoma evansi[porgn:__txid5697]	camel, buffalo, and several other vertabrat hosts	Euglenozoa	Kinetoplastida
+Trypanosoma rangeli[porgn:__txid5698]	Platyrrhinus lineatus (bat), homo sapiens	Euglenozoa	Kinetoplastida
+Trypanosoma theileri[porgn:__txid67003]	Bos taurus (cattle), sheep	Euglenozoa	Kinetoplastida
+Urosporidium parasite of Stictodora lari[porgn:__txid262240]	Stictodora lari (Metazoa; Platyhelminthes; Trematoda;) in Battilaria australis (snail, gastropod)	Rhizaria	Haplosporidia
+Wallaceina brevicula[porgn:__txid96333]	Nabis brevis (bug)	Euglenozoa	Kinetoplastida
