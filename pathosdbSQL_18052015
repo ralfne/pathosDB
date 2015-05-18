@@ -1,0 +1,199 @@
+CREATE DATABASE  IF NOT EXISTS `pathosdb` /*!40100 DEFAULT CHARACTER SET latin1 */;
+USE `pathosdb`;
+-- MySQL dump 10.13  Distrib 5.6.13, for osx10.6 (i386)
+--
+-- Host: 127.0.0.1    Database: pathosdb
+-- ------------------------------------------------------
+-- Server version	5.6.17
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8 */;
+/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
+/*!40103 SET TIME_ZONE='+00:00' */;
+/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+
+--
+-- Table structure for table `ginumber`
+--
+
+DROP TABLE IF EXISTS `ginumber`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `ginumber` (
+  `ID` int(11) NOT NULL AUTO_INCREMENT,
+  `SpeciesID` int(11) NOT NULL,
+  `GiNumber` varchar(45) NOT NULL,
+  `HostID` int(11) DEFAULT NULL,
+  PRIMARY KEY (`ID`),
+  UNIQUE KEY `ID_UNIQUE` (`ID`),
+  KEY `GiNumber_Species` (`SpeciesID`),
+  KEY `GiNumber_Host` (`HostID`),
+  CONSTRAINT `GiNumber_Host` FOREIGN KEY (`HostID`) REFERENCES `host` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION,
+  CONSTRAINT `GiNumber_Species` FOREIGN KEY (`SpeciesID`) REFERENCES `species` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB AUTO_INCREMENT=786254 DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Table structure for table `host`
+--
+
+DROP TABLE IF EXISTS `host`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `host` (
+  `ID` int(11) NOT NULL AUTO_INCREMENT,
+  `RawText` varchar(200) NOT NULL,
+  `ParasiteSpeciesID` int(11) NOT NULL,
+  `TaxID` int(11) DEFAULT NULL,
+  PRIMARY KEY (`ID`),
+  UNIQUE KEY `ID_UNIQUE` (`ID`),
+  KEY `Host_Parasite` (`ParasiteSpeciesID`),
+  CONSTRAINT `Host_Parasite` FOREIGN KEY (`ParasiteSpeciesID`) REFERENCES `species` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB AUTO_INCREMENT=76103 DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Table structure for table `species`
+--
+
+DROP TABLE IF EXISTS `species`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `species` (
+  `ID` int(11) NOT NULL AUTO_INCREMENT,
+  `Name` varchar(100) NOT NULL,
+  `TaxID` int(11) NOT NULL,
+  `References` varchar(2048) NOT NULL DEFAULT '',
+  `ValidationID` int(11) DEFAULT NULL,
+  `CreatedDate` datetime NOT NULL,
+  `Comment` varchar(4096) NOT NULL,
+  `IsExported` bit(1) NOT NULL DEFAULT b'0',
+  `ParasiteType` int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY (`ID`),
+  UNIQUE KEY `ID_UNIQUE` (`ID`),
+  UNIQUE KEY `Name_UNIQUE` (`Name`),
+  UNIQUE KEY `TaxID_UNIQUE` (`TaxID`),
+  KEY `Name_Fast` (`Name`),
+  KEY `Species_Validation` (`ValidationID`),
+  CONSTRAINT `Species_Validation` FOREIGN KEY (`ValidationID`) REFERENCES `validation` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB AUTO_INCREMENT=174366 DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Temporary table structure for view `species_ginumbers`
+--
+
+DROP TABLE IF EXISTS `species_ginumbers`;
+/*!50001 DROP VIEW IF EXISTS `species_ginumbers`*/;
+SET @saved_cs_client     = @@character_set_client;
+SET character_set_client = utf8;
+/*!50001 CREATE TABLE `species_ginumbers` (
+  `Species_ID` tinyint NOT NULL,
+  `Species_Name` tinyint NOT NULL,
+  `Species_TaxID` tinyint NOT NULL,
+  `Species_ParasiteType` tinyint NOT NULL,
+  `Species_References` tinyint NOT NULL,
+  `Species_ValidationID` tinyint NOT NULL,
+  `GiNumber_ID` tinyint NOT NULL,
+  `GiNumber_HostID` tinyint NOT NULL
+) ENGINE=MyISAM */;
+SET character_set_client = @saved_cs_client;
+
+--
+-- Temporary table structure for view `species_host`
+--
+
+DROP TABLE IF EXISTS `species_host`;
+/*!50001 DROP VIEW IF EXISTS `species_host`*/;
+SET @saved_cs_client     = @@character_set_client;
+SET character_set_client = utf8;
+/*!50001 CREATE TABLE `species_host` (
+  `Species_ID` tinyint NOT NULL,
+  `Species_Name` tinyint NOT NULL,
+  `Species_TaxID` tinyint NOT NULL,
+  `Species_ParasiteType` tinyint NOT NULL,
+  `Species_References` tinyint NOT NULL,
+  `Species_ValidationID` tinyint NOT NULL,
+  `Host_ID` tinyint NOT NULL,
+  `Host_RawText` tinyint NOT NULL,
+  `Host_TaxID` tinyint NOT NULL
+) ENGINE=MyISAM */;
+SET character_set_client = @saved_cs_client;
+
+--
+-- Table structure for table `validation`
+--
+
+DROP TABLE IF EXISTS `validation`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `validation` (
+  `ID` int(11) NOT NULL AUTO_INCREMENT,
+  `Type` varchar(100) NOT NULL,
+  `Default` bit(1) NOT NULL DEFAULT b'0',
+  PRIMARY KEY (`ID`),
+  UNIQUE KEY `ID_UNIQUE` (`ID`)
+) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping events for database 'pathosdb'
+--
+
+--
+-- Dumping routines for database 'pathosdb'
+--
+
+--
+-- Final view structure for view `species_ginumbers`
+--
+
+/*!50001 DROP TABLE IF EXISTS `species_ginumbers`*/;
+/*!50001 DROP VIEW IF EXISTS `species_ginumbers`*/;
+/*!50001 SET @saved_cs_client          = @@character_set_client */;
+/*!50001 SET @saved_cs_results         = @@character_set_results */;
+/*!50001 SET @saved_col_connection     = @@collation_connection */;
+/*!50001 SET character_set_client      = utf8 */;
+/*!50001 SET character_set_results     = utf8 */;
+/*!50001 SET collation_connection      = utf8_general_ci */;
+/*!50001 CREATE ALGORITHM=UNDEFINED */
+/*!50013 DEFINER=`root`@`localhost` SQL SECURITY DEFINER */
+/*!50001 VIEW `species_ginumbers` AS select `species`.`ID` AS `Species_ID`,`species`.`Name` AS `Species_Name`,`species`.`TaxID` AS `Species_TaxID`,`species`.`ParasiteType` AS `Species_ParasiteType`,`species`.`References` AS `Species_References`,`species`.`ValidationID` AS `Species_ValidationID`,`ginumber`.`ID` AS `GiNumber_ID`,`ginumber`.`HostID` AS `GiNumber_HostID` from (`species` left join `ginumber` on((`species`.`ID` = `ginumber`.`SpeciesID`))) */;
+/*!50001 SET character_set_client      = @saved_cs_client */;
+/*!50001 SET character_set_results     = @saved_cs_results */;
+/*!50001 SET collation_connection      = @saved_col_connection */;
+
+--
+-- Final view structure for view `species_host`
+--
+
+/*!50001 DROP TABLE IF EXISTS `species_host`*/;
+/*!50001 DROP VIEW IF EXISTS `species_host`*/;
+/*!50001 SET @saved_cs_client          = @@character_set_client */;
+/*!50001 SET @saved_cs_results         = @@character_set_results */;
+/*!50001 SET @saved_col_connection     = @@collation_connection */;
+/*!50001 SET character_set_client      = utf8 */;
+/*!50001 SET character_set_results     = utf8 */;
+/*!50001 SET collation_connection      = utf8_general_ci */;
+/*!50001 CREATE ALGORITHM=UNDEFINED */
+/*!50013 DEFINER=`root`@`localhost` SQL SECURITY DEFINER */
+/*!50001 VIEW `species_host` AS select `species`.`ID` AS `Species_ID`,`species`.`Name` AS `Species_Name`,`species`.`TaxID` AS `Species_TaxID`,`species`.`ParasiteType` AS `Species_ParasiteType`,`species`.`References` AS `Species_References`,`species`.`ValidationID` AS `Species_ValidationID`,`host`.`ID` AS `Host_ID`,`host`.`RawText` AS `Host_RawText`,`host`.`TaxID` AS `Host_TaxID` from (`species` left join `host` on((`species`.`ID` = `host`.`ParasiteSpeciesID`))) */;
+/*!50001 SET character_set_client      = @saved_cs_client */;
+/*!50001 SET character_set_results     = @saved_cs_results */;
+/*!50001 SET collation_connection      = @saved_col_connection */;
+/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+
+-- Dump completed on 2015-05-18 11:54:49
